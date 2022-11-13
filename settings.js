@@ -54,8 +54,8 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.vcardowner = ['9660540637980'] //ur owner number
-global.ownername = "ABDUL RAHMAN🐼🍷 ٫" //ur owner name
+عالمي . vcardowner  = [ '01033499817 ] // رقم مالكك
+global.ownername = " 𝐈𝐍𝐎𝐑𝐈 ٫" //ur owner name
 global.ytname = "YT: ABDUL RAHMAN" //ur yt chanel name
 global.socialm = "GitHub: ABDUL RAHMAN" //ur github or insta name
 global.location = "Egypt, Cairo, Aizawl" //ur location
@@ -69,8 +69,8 @@ global.websitex = "https://chat.whatsapp.com/LXZnV3rPFqD4ryPvG0Cyvvv" //ur websi
 global.botscript = 'https://chat.whatsapp.com/LXZnV3rPFqD4ryPvG0Cyvvv' //script link
 global.reactmoji = "🌚" //ur menu react emoji
 global.themeemoji = "🌞" //ur theme emoji
-global.packname = "⍣عبدالرحمن⍣" //ur sticker watermark packname
-global.author = "⍣9660540637980⍣" //ur sticker watermark author
+عالمي . packname  =  "⍣𝐈𝐍𝐎𝐑𝐈⍣"  // اسم حزمة العلامة المائية الخاصة بملصقك𝐋 𝐎 𝐑 
+عالمي . المؤلف  =  "⍣𝐋 𝐎 𝐑 ⍣"  // مؤلف العلامة المائية للملصق الخاص بك
 
 //Bot theme media
 global.thum = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
